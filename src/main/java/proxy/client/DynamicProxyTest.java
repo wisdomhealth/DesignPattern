@@ -1,4 +1,8 @@
-package proxy;
+package proxy.client;
+
+import proxy.BuyHouse;
+import proxy.BuyHouseImpl;
+import proxy.DynamicProxyHandler;
 
 import java.lang.reflect.Proxy;
 
